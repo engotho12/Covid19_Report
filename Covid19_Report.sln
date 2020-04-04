@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Covid19_Report", "Covid19_Report\Covid19_Report.rptproj", "{9F202E9B-B133-4DC7-9E26-94C41E93A9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F202E9B-B133-4DC7-9E26-94C41E93A9EA}.Debug|Default.ActiveCfg = Debug
+		{9F202E9B-B133-4DC7-9E26-94C41E93A9EA}.Debug|Default.Build.0 = Debug
+		{9F202E9B-B133-4DC7-9E26-94C41E93A9EA}.Debug|Default.Deploy.0 = Debug
+		{9F202E9B-B133-4DC7-9E26-94C41E93A9EA}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9F202E9B-B133-4DC7-9E26-94C41E93A9EA}.DebugLocal|Default.Build.0 = DebugLocal
+		{9F202E9B-B133-4DC7-9E26-94C41E93A9EA}.Release|Default.ActiveCfg = Release
+		{9F202E9B-B133-4DC7-9E26-94C41E93A9EA}.Release|Default.Build.0 = Release
+		{9F202E9B-B133-4DC7-9E26-94C41E93A9EA}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93697149-6031-4C17-946D-C01326A7263D}
+	EndGlobalSection
+EndGlobal
